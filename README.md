@@ -11,5 +11,5 @@ cd IDN-CCTV
 python INDONESIA_CCTV.py
 ```
 # Peringatan 
-Program Script Ini Dibuat Hanya Untuk **Tujuan Edukasi, Pembelajaran, Dan Diset Pribadi**
+Program Script Ini Dibuat Hanya Untuk **Tujuan Edukasi, Pembelajaran, Dan Riset Pribadi**
 Segala Bentuk Penyalahgunaan Seperti Menggunakan Data CCTV Untuk Tujuan Ilegal Adalah **Tanggung Jawab Pengguna Sepenuhnya** Developer Tidak Bertanggung Jawab Atas Kerugian Atau Dampak Hukum Yang Ditimbulkan Akibat Penggunaan Program Script Ini!
