@@ -8,6 +8,7 @@ Program Script Ini Saya Buat Hanya Untuk Edukasi Pembelajaran Dan Pemantauan Dig
 pkg update && pkg upgrade -y
 git clone https://github.com/opettt-hash/IDN-CCTV.git
 cd IDN-CCTV
+python INDONESIA_CCTV.py
 ```
 # Peringatan 
 Program Script Ini Dibuat Hanya Untuk **Tujuan Edukasi, Pembelajaran, Dan Diset Pribadi**
