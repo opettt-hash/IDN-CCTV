@@ -6,6 +6,7 @@ Program Script Ini Saya Buat Hanya Untuk Edukasi Pembelajaran Dan Pemantauan Dig
 # Instalasi 
 ```
 pkg update && pkg upgrade -y
+git clone https://github.com/opettt-hash/IDN-CCTV.git
 ```
 # Peringatan 
 Program Script Ini Dibuat Hanya Untuk **Tujuan Edukasi, Pembelajaran, Dan Diset Pribadi**
