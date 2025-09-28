@@ -7,6 +7,10 @@ Program Script Ini Saya Buat Hanya Untuk Edukasi Pembelajaran Dan Pemantauan Dig
 ```
 pkg update && pkg upgrade -y
 ```
-# Peringatan
-Program Script Ini Adalah Rangkuman Yang Saya Buat Yang Berisi Kumpulan Script Dari Berbagai Repository GitHub Terbaik, Mohon Jangan Salah Paham, Gunakan Dengan Baik Dan Benar!
+# Peringatan 
+Program Script Ini Dibuat Hanya Untuk **Tujuan Edukasi, Pembelajaran, Dan Diset Pribadi**
+Segala Bentuk Penyalahgunaan Seperti 
+- Menggunakan Data CCTV Untuk Tujuan Ilegal
 
+Adalah **Tanggung Jawab Pengguna Sepenuhnya**.  
+Developer Tidak Bertanggung Jawab Atas Kerugian Atau Dampak Hukum Yang Ditimbulkan Akibat Penggunaan Program Script Ini!
